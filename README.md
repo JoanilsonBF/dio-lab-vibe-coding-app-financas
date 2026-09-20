@@ -30,6 +30,7 @@ Gerar um plano de MVP com as principais telas, recursos necessários e um esboç
 Usar tom educativo e linguagem acessível, em português.
 
 ```
+https://lil-wallet-talk.lovable.app/
 
 - Seu **prompt final** (PRD);  
 - Prints ou pequenos vídeos das interações com a IA;  
