@@ -1,6 +1,6 @@
 # App "Finanças da Nit" de Organização de Finanças Pessoais com Vibe Coding
 
-
+Desafio proposto pela DIO!
 PRD sintetizado no Copilot Web:
 
 ```
